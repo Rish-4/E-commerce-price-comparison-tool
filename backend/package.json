@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "patang": "^1.0.9",
+    "puppeteer": "^24.10.2"
+  }
+}
